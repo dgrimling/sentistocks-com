@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on 8 November 2026 at 05:57 by All in One SEO Pro v4.7.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/category/blog/]]></loc>
+		<lastmod><![CDATA[2024-01-11T17:17:01+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/category/scholary-articles/]]></loc>
+		<lastmod><![CDATA[2024-06-06T08:17:08+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/artykuly-naukowe/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/category/scholary-articles/" />
+	</url>
+	<url>
+		<loc><![CDATA[/category/trend-forecasting/]]></loc>
+		<lastmod><![CDATA[2024-09-04T11:55:24+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/prognozy-trendu/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/category/trend-forecasting/" />
+	</url>
+	<url>
+		<loc><![CDATA[/category/project-development/]]></loc>
+		<lastmod><![CDATA[2024-06-06T08:17:22+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/rozwoj-projektu/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/category/project-development/" />
+	</url>
+	<url>
+		<loc><![CDATA[/category/without-category/]]></loc>
+		<lastmod><![CDATA[2024-01-17T21:22:50+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/bez-kategorii-pl/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/category/without-category/" />
+	</url>
+	<url>
+		<loc><![CDATA[/category/case-studies/]]></loc>
+		<lastmod><![CDATA[2024-01-20T23:25:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/category/media/]]></loc>
+		<lastmod><![CDATA[2024-01-18T09:36:05+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/w-mediach-pl/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/category/media/" />
+	</url>
+	<url>
+		<loc><![CDATA[/category/podcasts/]]></loc>
+		<lastmod><![CDATA[2024-01-17T22:23:04+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/podcasty/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/category/podcasts/" />
+	</url>
+	<url>
+		<loc><![CDATA[/category/sentibot-results/]]></loc>
+		<lastmod><![CDATA[2025-12-06T16:22:34+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/wyniki-sentibota/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/category/sentibot-results/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/category/rozwoj-projektu/]]></loc>
+		<lastmod><![CDATA[2024-01-12T12:22:31+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/category/project-development/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/rozwoj-projektu/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/category/wyniki-sentibota/]]></loc>
+		<lastmod><![CDATA[2025-12-06T16:20:53+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/category/sentibot-results/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/wyniki-sentibota/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/category/analizy-przypadku/]]></loc>
+		<lastmod><![CDATA[2024-11-07T12:10:52+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/category/prognozy-trendu/]]></loc>
+		<lastmod><![CDATA[2024-05-30T14:45:43+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/category/trend-forecasting/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/prognozy-trendu/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/category/podcasty/]]></loc>
+		<lastmod><![CDATA[2024-01-12T12:23:13+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/category/podcasts/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/podcasty/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/category/artykuly-naukowe/]]></loc>
+		<lastmod><![CDATA[2024-01-12T12:03:09+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/category/scholary-articles/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/artykuly-naukowe/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/category/w-mediach-pl/]]></loc>
+		<lastmod><![CDATA[2024-01-12T12:25:45+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/category/media/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/w-mediach-pl/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/category/bez-kategorii-pl/]]></loc>
+		<lastmod><![CDATA[2024-03-03T21:39:35+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/category/without-category/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/category/bez-kategorii-pl/" />
+	</url>
+</urlset>

@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on 8 November 2026 at 05:57 by All in One SEO Pro v4.7.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/]]></loc>
+		<lastmod><![CDATA[2026-01-07T10:36:50+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-logo_white.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/stock_money.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-gsa-logo-sofy-fw-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-gsa-logo-bn-3.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-tti_usa_23-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-mycompanypolska_PBM-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-Forbes_BPAIC_EN.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/]]></loc>
+		<lastmod><![CDATA[2026-01-07T10:45:28+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-logo_white.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/stock_money.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-gsa-logo-sofy-fw-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-gsa-logo-bn-3.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-tti_usa_23-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-mycompanypolska_PBM-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-Forbes_BPAIC_EN.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/sentibot/]]></loc>
+		<lastmod><![CDATA[2026-01-07T10:44:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/sentibot/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/sentibot/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-anger-min-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-expectation-min-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-joy.min_-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-trust-min-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-sadness-min-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-fear-min-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-disgust-min-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-surprise-min-2.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/sentibot/]]></loc>
+		<lastmod><![CDATA[2026-01-07T10:38:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/sentibot/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/sentibot/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-anger-min.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-expectation-min.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-joy.min_.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-trust-min.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-sadness-min.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-fear-min.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-disgust-min.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/emoji-surprise-min.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-Slajd23-1.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/senti-bot-test/]]></loc>
+		<lastmod><![CDATA[2025-10-15T11:11:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2025/09/Senti-Bot_results_08-2025-02.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2025/09/Senti-Bot_results_08-2025-04.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/konto/]]></loc>
+		<lastmod><![CDATA[2025-07-20T18:45:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/account/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/konto/" />
+	</url>
+	<url>
+		<loc><![CDATA[/account/]]></loc>
+		<lastmod><![CDATA[2025-07-20T18:37:40+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/konto/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/account/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/binance/]]></loc>
+		<lastmod><![CDATA[2025-06-04T07:08:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/binance/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/binance/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/plugins/wpforms/assets/images/submit-spin.svg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/binance/]]></loc>
+		<lastmod><![CDATA[2025-06-03T10:55:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/binance/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/binance/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/plugins/wpforms/assets/images/submit-spin.svg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/predictions/]]></loc>
+		<lastmod><![CDATA[2024-10-31T10:45:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/predykcje/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/predictions/" />
+	</url>
+	<url>
+		<loc><![CDATA[/about-us/]]></loc>
+		<lastmod><![CDATA[2024-05-08T09:11:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/o-nas/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/about-us/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-gsa-logo-sofy-fw-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/05/20240508_tti_usa_23_innovative.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-tti_usa_23-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-mycompanypolska_PBM-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-Forbes_BPAIC_EN.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-damian-grimling.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-grzegorz-stefanski.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-bartosz-kwapisz.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-piotr_bialowas.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-jan-kocon.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Agnieszka_wolk-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Katarzyna_300_2-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/AI-Fi_300_2-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentimenti_SYGNET_fin50-e1690966218571-1.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/o-nas/]]></loc>
+		<lastmod><![CDATA[2024-05-08T09:08:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/about-us/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/o-nas/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-gsa-logo-sofy-fw-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/05/20240508_tti_usa_23_innovative.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-tti_usa_23-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-mycompanypolska_PBM-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-Forbes_BPAIC_EN.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-damian-grimling-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-grzegorz-stefanski-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-bartosz-kwapisz-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-piotr_bialowas-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-jan-kocon-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Agnieszka_wolk-2-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Katarzyna_300_2-1-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/AI-Fi_300_2-1-1.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentimenti_SYGNET_fin50-e1690966218571-1-1.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/o-nas/]]></loc>
+		<lastmod><![CDATA[2024-05-08T09:08:09+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/about-us/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/o-nas/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-gsa-logo-sofy-fw-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-gsa-logo-bn-3.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-tti_usa_23-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-mycompanypolska_PBM-2.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2023/12/Sentistocks-Forbes_BPAIC_EN.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-damian-grimling.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-grzegorz-stefanski.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-bartosz-kwapisz.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-piotr_bialowas.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-jan-kocon.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/predykcje/]]></loc>
+		<lastmod><![CDATA[2024-05-07T19:43:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/predictions/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/predykcje/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/predykcje/]]></loc>
+		<lastmod><![CDATA[2024-05-07T19:43:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/predictions/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/predykcje/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/predictions_1h.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/predictions_4h.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/predictions_8h.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/predictions_24h.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/affiliate-area/]]></loc>
+		<lastmod><![CDATA[2024-02-27T11:29:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/program-partnerski/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/affiliate-area/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/AdobeStock_464128476.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/DALLE-2023-12-20-154630-A-visually-appealing-marketing-graphic-for-a-trading-bot-partnership-program.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/elementor/thumbs/AdobeStock_77337260-1-qim0kwb4x2tbp88me2kz4ji1b2hkku4lusrpf00phe.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/program-partnerski/]]></loc>
+		<lastmod><![CDATA[2024-02-27T11:16:13+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/affiliate-area/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/program-partnerski/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/AdobeStock_464128476.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/DALLE-2023-12-20-154630-A-visually-appealing-marketing-graphic-for-a-trading-bot-partnership-program.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/elementor/thumbs/AdobeStock_77337260-1-qim0kwb4x2tbp88me2kz4ji1b2hkku4lusrpf00phe.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/contact/]]></loc>
+		<lastmod><![CDATA[2024-02-13T14:24:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/kontakt/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/contact/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/kontakt/]]></loc>
+		<lastmod><![CDATA[2024-02-13T14:24:21+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/contact/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/kontakt/" />
+	</url>
+	<url>
+		<loc><![CDATA[/api/]]></loc>
+		<lastmod><![CDATA[2024-02-13T14:24:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/api/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/api/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/api/]]></loc>
+		<lastmod><![CDATA[2024-02-13T14:23:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/api/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/api/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/api/]]></loc>
+		<lastmod><![CDATA[2024-02-13T14:23:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/api/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/api/" />
+	</url>
+	<url>
+		<loc><![CDATA[/strefa-partnera/]]></loc>
+		<lastmod><![CDATA[2024-02-12T00:10:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/affiliate-portal/]]></loc>
+		<lastmod><![CDATA[2024-02-11T17:11:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/portal-partnera/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/affiliate-portal/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/portal-partnera/]]></loc>
+		<lastmod><![CDATA[2024-02-10T18:56:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/affiliate-portal/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/portal-partnera/" />
+	</url>
+	<url>
+		<loc><![CDATA[/affiliate-signup/]]></loc>
+		<lastmod><![CDATA[2024-02-07T21:49:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/lost-password/]]></loc>
+		<lastmod><![CDATA[2024-02-05T17:48:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/reset-hasla/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/lost-password/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/reset-hasla/]]></loc>
+		<lastmod><![CDATA[2024-02-05T17:47:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/lost-password/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/reset-hasla/" />
+	</url>
+	<url>
+		<loc><![CDATA[/affiliate-login/]]></loc>
+		<lastmod><![CDATA[2024-02-05T17:35:18+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/logowanie-partnera/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/affiliate-login/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/logowanie-partnera/]]></loc>
+		<lastmod><![CDATA[2024-02-05T17:34:38+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/affiliate-login/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/logowanie-partnera/" />
+	</url>
+	<url>
+		<loc><![CDATA[/checkout/]]></loc>
+		<lastmod><![CDATA[2024-02-05T15:24:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/podsumowanie/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/checkout/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/podsumowanie/]]></loc>
+		<lastmod><![CDATA[2024-02-04T20:00:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/checkout/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/podsumowanie/" />
+	</url>
+	<url>
+		<loc><![CDATA[/affiliate-tos/]]></loc>
+		<lastmod><![CDATA[2024-02-01T12:30:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/affiliate-regulamin/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/affiliate-tos/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/affiliate-regulamin/]]></loc>
+		<lastmod><![CDATA[2024-02-01T12:29:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/affiliate-tos/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/affiliate-regulamin/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/polityka-prywatnosci/]]></loc>
+		<lastmod><![CDATA[2024-01-25T21:18:32+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/privacy-policy/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/polityka-prywatnosci/" />
+	</url>
+	<url>
+		<loc><![CDATA[/pl/warunki-uzytkowania/]]></loc>
+		<lastmod><![CDATA[2024-01-25T21:17:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/terms-of-use/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/warunki-uzytkowania/" />
+	</url>
+	<url>
+		<loc><![CDATA[/privacy-policy/]]></loc>
+		<lastmod><![CDATA[2024-01-25T21:13:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/polityka-prywatnosci/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/privacy-policy/" />
+	</url>
+	<url>
+		<loc><![CDATA[/refund_returns/]]></loc>
+		<lastmod><![CDATA[2024-01-25T21:11:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/terms-of-use/]]></loc>
+		<lastmod><![CDATA[2024-01-25T21:02:36+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/warunki-uzytkowania/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/terms-of-use/" />
+	</url>
+	<url>
+		<loc><![CDATA[/become-an-affiliate/]]></loc>
+		<lastmod><![CDATA[2024-01-17T20:20:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/team/piotr-bialowas/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:22:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/team/piotr-bialowas/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/piotr-bialowas/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-piotr_bialowas.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/team/grzegorz-stefanski/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:22:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/team/grzegorz-stefanski/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/grzegorz-stefanski/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-grzegorz-stefanski.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/team/ph-d-jan-kocon/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:20:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/team/dr-inz-jan-kocon/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/ph-d-jan-kocon/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-jan-kocon.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/team/damian-grimling/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:19:27+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/team/damian-grimling/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/damian-grimling/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-damian-grimling.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/team/katarzyna-maszyna/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:17:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/team/catherine-the-machine/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/katarzyna-maszyna/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Katarzyna_300_2-1.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/team/bartosz-kwapisz/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:14:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/team/bartosz-kwapisz/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/bartosz-kwapisz/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-bartosz-kwapisz.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/team/ai-fi/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:12:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/team/ai-fi-en/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/ai-fi/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/AI-Fi_300_2-1.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/team/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:09:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/team/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentimenti_SYGNET_fin50-e1690966218571-1.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/team/ai-fi-en/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:05:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/ai-fi/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/team/ai-fi-en/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/AI-Fi_300_2-1.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/team/catherine-the-machine/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:04:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/katarzyna-maszyna/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/team/catherine-the-machine/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-bartosz-kwapisz.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/team/]]></loc>
+		<lastmod><![CDATA[2024-01-17T18:00:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/team/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentimenti_SYGNET_fin50-e1690966218571-1.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/pl/blog/]]></loc>
+		<lastmod><![CDATA[2024-01-07T18:43:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/blog/" />
+	</url>
+	<url>
+		<loc><![CDATA[/team/bartosz-kwapisz/]]></loc>
+		<lastmod><![CDATA[2024-01-03T21:42:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/bartosz-kwapisz/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/team/bartosz-kwapisz/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-bartosz-kwapisz.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/team/piotr-bialowas/]]></loc>
+		<lastmod><![CDATA[2024-01-03T21:40:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/piotr-bialowas/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/team/piotr-bialowas/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-piotr_bialowas.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/team/grzegorz-stefanski/]]></loc>
+		<lastmod><![CDATA[2024-01-03T21:40:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/grzegorz-stefanski/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/team/grzegorz-stefanski/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-grzegorz-stefanski.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/team/dr-inz-jan-kocon/]]></loc>
+		<lastmod><![CDATA[2024-01-03T21:39:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/ph-d-jan-kocon/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/team/dr-inz-jan-kocon/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-jan-kocon.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/team/damian-grimling/]]></loc>
+		<lastmod><![CDATA[2024-01-03T21:39:08+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<xhtml:link rel="alternate" hreflang="pl" href="/pl/team/damian-grimling/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/team/damian-grimling/" />
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/01/Sentistocks-damian-grimling.webp]]></image:loc>
+		</image:image>
+	</url>
+</urlset>
